@@ -1,4 +1,4 @@
-# Hello there <img src="Resource/Hi.gif" width="30px">
+# Hello there <img src="https://github.com/SpriteOvO/SpriteOvO/Resource/Hi.gif" width="30px">
 
 <!--
 **SpriteOvO/SpriteOvO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
